@@ -1,4 +1,4 @@
-from baseline.baselineplugin.forms import BasePluginSettingsForm
+from baselinecore.plugin.forms import BasePluginSettingsForm
 from django import forms
 
 
